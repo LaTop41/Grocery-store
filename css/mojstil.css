@@ -1,0 +1,131 @@
+
+.navbar-default .navbar-nav>li>a:hover, .dropdown-menu>li>a:hover {
+	color: #5CDB95;
+	background-color: #379683;
+    text-decoration: none;
+    
+}
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+	color:  #5CDB95;
+	background-color: #379683;
+	text-decoration: none;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form, .container-fluid{
+	
+	
+    background-color: #5CDB95;
+    border-color: #EDF5E1;
+    border-radius: 4px;
+    border: 1px solid transparent;
+   
+
+}
+.navbar-default .navbar-brand { 
+    color: #05386B; 
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    }
+.navbar-default .navbar-nav>li>a { 
+    color: #05386B;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+}
+#trazi{
+    background-color: #8EE4AF;
+}
+.glyphicon-search{
+    color: #05386B;
+}
+#btnSearch{
+    background-color:#EDF5E1 ;
+}
+.glyphicon-time{
+    color: #05386B;
+}
+#cifre{
+background-color: #8EE4AF;
+}
+.navbar-collapse .navbar-nav>li>a:hover{
+    color: #5CDB95;
+	background-color: #379683;
+	text-decoration: none;
+}
+.navbar-collapse .navbar-nav>li>a{
+    color: #05386B;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+}
+.carousel {
+    margin-bottom: 30px;
+    border:5px solid #8EE4AF;
+    box-sizing:border-box!important;
+    border-radius: 3px;
+}
+
+
+body{
+    background-color:  #5CDB95;
+    color: #05386B;
+}
+.footer .page-header h4{
+    color: #05386B;
+}
+.panel-footer li a { /*boja slova linkova u footer-u*/
+	color: #05386B;
+}
+.panel-footer { /*u footer-u podesavanje gornjeg bordera*/
+	border-top: 1px solid #EDF5E1;
+	background-color: #5CDB95;
+}
+.page-header { /*boja donjeg border-a svakog header-a*/
+	border-bottom: none;
+}
+.page-header h1 small{
+    color: #05386B;
+}
+#logo{
+    height: 250px;
+    width: 250px;
+   
+}
+.navAdmin {
+	background-color: #5CDB95;
+	width: 80%;
+	height: 15%;
+	border-radius: 4px;
+    border: 3px solid;
+    border-color: #EDF5E1;
+    box-sizing: border-box;
+    padding: 5px;
+    
+}
+
+.tab-content{
+    width: 70%;
+    margin-left: 10px;
+    margin-top: 25px;
+}
+.nav-tabs>li>a {
+    color: #05386B;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+
+}
+.nav-tabs>li>a:hover{
+    color: #5CDB95;
+	background-color: #379683;
+	text-decoration: none;
+}
+.form-control {
+    display: block;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
